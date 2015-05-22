@@ -1,2 +1,2 @@
 # LinkedIn2Xing
-Simple script parsing LinkedIn contacts (csv export) to XING
+Simple script importing LinkedIn contacts (csv export) to XING
